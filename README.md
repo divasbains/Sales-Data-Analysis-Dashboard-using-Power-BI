@@ -3,9 +3,9 @@
 ## Description:
 Analyzed four years of sales data for Staples, an office supply retail company, to develop an interactive Power BI dashboard. This dashboard provides actionable insights into sales trends, profit performance, and shipment optimization, helping the company enhance its operations and profitability.
 ## Dataset used:
-<a href="https://github.com/divasbains/Sales-Data-Analysis-Dashboard-using-Power-BI/blob/main/Staples%20Sales%20project.pbix">BI Dashboard</a>
-<a href="https://github.com/divasbains/Sales-Data-Analysis-Dashboard-using-Power-BI/blob/main/Sales_Data.xlsx">Dataset</a>
-<a href="https://github.com/divasbains/Sales-Data-Analysis-Dashboard-using-Power-BI/blob/main/dashboard%20image.png">Dashboard</a>
+- <a href="https://github.com/divasbains/Sales-Data-Analysis-Dashboard-using-Power-BI/blob/main/Staples%20Sales%20project.pbix">BI Dashboard</a>
+- <a href="https://github.com/divasbains/Sales-Data-Analysis-Dashboard-using-Power-BI/blob/main/Sales_Data.xlsx">Dataset</a>
+- <a href="https://github.com/divasbains/Sales-Data-Analysis-Dashboard-using-Power-BI/blob/main/dashboard%20image.png">Dashboard</a>
 
 ## Staples faced challenges in:
 - Identifying top-performing product categories to maximize profitability.
@@ -48,6 +48,6 @@ Identified high-demand products and categories, enabling improved stock availabi
 - Achieve better operational efficiency and improved decision-making through centralized and accessible insights.
 
 ## Tools & Technologies:
-Power BI: For creating interactive dashboards and visualizations.
-Excel: For initial data cleaning and preparation.
+- Power BI: For creating interactive dashboards and visualizations.
+- Excel: For initial data cleaning and preparation.
 
