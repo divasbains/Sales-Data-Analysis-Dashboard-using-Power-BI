@@ -36,7 +36,7 @@ Identified high-demand products and categories, enabling improved stock availabi
 • Regional Performance: States like California and New York showed high sales performance, while regions like the Midwest required targeted strategies for improvement.
 • Product Availability: Recommendations were made to restock high-demand items in top-performing regions to avoid lost sales opportunities.
 
-## Impact:
+## Impact: 
 ## The dashboard empowered Staples to:
 Increase profitability by focusing on high-performing categories and optimizing inventory planning.
 Reduce delivery costs and improve efficiency by adopting the best shipment modes.
