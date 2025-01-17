@@ -6,7 +6,7 @@ Analyzed four years of sales data for Staples, an office supply retail company, 
 <a href="https://github.com/divasbains/Sales-Data-Analysis-Dashboard-using-Power-BI/blob/main/dashboard%20image.png">Dashboard</a>
 
 ## Staples faced challenges in:
-• Identifying top-performing product categories to maximize profitability.
+- Identifying top-performing product categories to maximize profitability.
 • Evaluating shipment modes to optimize delivery efficiency and costs.
 • Pinpointing sales and profit trends across regions to address underperforming areas.
 • Resolving product availability issues and improving inventory management.
